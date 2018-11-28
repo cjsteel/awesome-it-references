@@ -10,6 +10,8 @@ Develop better software with Scrum. On-site training from the Experts. On-site S
 
 * [www.scrum.org](https://www.scrum.org/)
 
+* [Top 7 open source project management tools for agile teams](https://opensource.com/article/18/2/agile-project-management-tools)
+
 ## 2018-11-27 - Scale
 
 Free IT related reads from the spectacularly awesome (Googles Seeking SRE) to interesting:
