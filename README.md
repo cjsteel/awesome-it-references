@@ -1,6 +1,16 @@
 # awesome-it-references
 
-## 2018-11-27
+## 2018-11-28 - Scrum
+
+Scrum Guide (Online, PDF, 30 different Languages)
+
+* [www.scrumguides.org](https://www.scrumguides.org/)
+
+Develop better software with Scrum. On-site training from the Experts. On-site Scrum Training. Courses Eligible for PDU. Training worldwide. Discount Private Courses. Courses: Scaled Scrum with Nexus, Scaling Scrum, Scaled Professional Scrum.
+
+* [www.scrum.org](https://www.scrum.org/)
+
+## 2018-11-27 - Scale
 
 Free IT related reads from the spectacularly awesome (Googles Seeking SRE) to interesting:
 
