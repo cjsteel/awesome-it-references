@@ -12,16 +12,18 @@ Interesting LXD Tutorials
 
 * [Creating custom LXD images](https://tutorials.ubuntu.com/tutorial/create-custom-lxd-images#0)
 
-Configuration de LXD sur Ubuntu 16.04 - Is an outdated tutorial and will install an older version of LXD (2.0.1?)
+### Configuration de LXD sur Ubuntu 16.04
 
-On *Ubuntu 16.04* you will want to enable multivers:
+*IMPORTANT* - This tutorial is outdated tutorial and will install an older version of LXD (2.0.1?) which you probably do not want.
+
+On *Ubuntu 16.04* only, you will want to enable multivers and install the backport:
 
 ```shell
 deb http://ca.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
 deb-src http://ca.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
 ```
 
-and install current version of LXD using backports:
+now install the current version of LXD using backports:
 
 ```shell
 sudo apt update
