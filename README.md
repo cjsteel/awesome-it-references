@@ -1,5 +1,35 @@
 # awesome-it-references
 
+## 2018-12-15 - Ubuntu Tutorials - LXD
+
+Main Site
+
+* [Ubuntu Tutorials](https://tutorials.ubuntu.com/)
+
+Interesting LXD Tutorials
+
+* [GPU data processing inside LXD](https://tutorials.ubuntu.com/tutorial/gpu-data-processing-inside-lxd#0)
+
+* [Creating custom LXD images](https://tutorials.ubuntu.com/tutorial/create-custom-lxd-images#0)
+
+Configuration de LXD sur Ubuntu 16.04 - Is an outdated tutorial and will install an older version of LXD (2.0.1?)
+
+On *Ubuntu 16.04* you will want to enable multivers:
+
+```shell
+deb http://ca.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
+deb-src http://ca.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
+```
+
+and install current version of LXD using backports:
+
+```shell
+sudo apt update
+sudo apt install -y -t xenial-backports lxd lxd-client
+```
+
+* [Configuration de LXD sur Ubuntu 16.04](https://tutorials.ubuntu.com/tutorial/tutorial-setting-up-lxd-1604-fr#4)
+
 ## 2018-11-28 - Scrum
 
 Scrum Guide (Online, PDF, 30 different Languages)
