@@ -1,5 +1,11 @@
 # awesome-it-references
 
+## 2018-12-17 - Security & Privacy
+
+* [Canadian House of Commons - DEMOCRACY UNDER THREAT: RISKS AND SOLUTIONS IN THE ERA OF DISINFORMATION AND DATA MONOPOLY - Report of the Standing Committee on Access to Information, Privacy and Ethics](http://www.ourcommons.ca/Content/Committee/421/ETHI/Reports/RP10242267/ethirp17/ethirp17-e.pdf?fbclid=IwAR2jqHEfbKBcYBD-MVh_jBQz8SN1FevGZN3IdAr6yFlp3rNmS94MOZj8AVI)
+
+* [THE DARK SIDE OF THE FORSSHE - A landscape of OpenSSH backdoors](https://www.welivesecurity.com/wp-content/uploads/2018/12/ESET-The_Dark_Side_of_the_ForSSHe.pdf)
+
 ## 2018-12-15 - Ubuntu Tutorials - LXD
 
 Main Site
