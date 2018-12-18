@@ -1,5 +1,10 @@
 # awesome-it-references
 
+## 2018-12-18 - "Collaborative Friendships and Creative Work"
+
+* [The Friendship That Made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
+"Coding together at the same computer, Jeff Dean and Sanjay Ghemawat changed the course of the company—and the Internet."
+
 ## 2018-12-17 - Security & Privacy
 
 * [Canadian House of Commons - DEMOCRACY UNDER THREAT: RISKS AND SOLUTIONS IN THE ERA OF DISINFORMATION AND DATA MONOPOLY - Report of the Standing Committee on Access to Information, Privacy and Ethics](http://www.ourcommons.ca/Content/Committee/421/ETHI/Reports/RP10242267/ethirp17/ethirp17-e.pdf?fbclid=IwAR2jqHEfbKBcYBD-MVh_jBQz8SN1FevGZN3IdAr6yFlp3rNmS94MOZj8AVI)
